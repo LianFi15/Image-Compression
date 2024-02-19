@@ -45,7 +45,7 @@ Singular values ($\sigma$) in $\Sigma$ are non-negative and arranged in descendi
 import numpy as np
 
 # Perform SVD on a matrix A
-U, \Sigma, V^T = np.linalg.svd(A)
+U, Sigma, V = np.linalg.svd(A)
 
 ```
 ## Low rank Matrix Approximation
