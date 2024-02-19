@@ -59,3 +59,7 @@ We'll explore the optimal k value in this project.
 ## Example
 
 I used a photo of my dog, the result are as you can see below
+
+![](image/imgApprox.jpg)
+
+When $k$ exceeds 100, the image appears clear, suggesting its suitability for training data in scenarios where a general image representation is sufficient, and precise lines are not a strict requirement.
